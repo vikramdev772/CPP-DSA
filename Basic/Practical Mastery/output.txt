@@ -1,0 +1,10 @@
+
+	 Logical operators 
+Enter a number: 
+	 Value x: 5
+	 Division : Cannot divide by zero
+
+	 Sum of 1 to 5: 15
+
+	 1+2+3+....infiny : -1/12
+
