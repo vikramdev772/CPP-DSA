@@ -4,3 +4,9 @@
 	 Enter the value x : 
 	 Enter the value y : 
 	 Sum of x and y is: 9
+
+	 Sub of x and y is: -1
+
+	 product of x and y is :20
+
+	 divison of x of y : 0
